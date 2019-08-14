@@ -1,5 +1,5 @@
 # CSC 170 Course Documentation
-Web Design and Development
+Web Design and Development (...test update)
 
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)  &lArr; here be: slides, demos, assignments, and related links from lectures and labs
