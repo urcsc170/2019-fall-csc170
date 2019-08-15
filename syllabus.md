@@ -2,21 +2,21 @@
 
 An introduction to Internet and Web technologies. Topics include Internet transport protocols, HTML5 and CSS3, Web page design and Website publishing. Emphasis is placed on fundamentals, design concepts and industry standards. Additional topics include: web site construction techniques, mobile design issues, and Search Engine Optimization (SEO). Programming with JavaScript will be introduced.
 
-- CRN: **51668**
+- CRN: **52638**
 - Course: **CSC 170**
 - Credits: **4.0**
-- Lecture Schedule: **Tuesdays and Thursdays, 3:25 to 4:40 PM**
+- Lecture Schedule: **Tuesdays and Thursdays, 11:05 AM to 12:20 PM**
 - Building: **Goergen Hall**
 - Room: **101**
 
 ## Instructor Information 
 - Instructor: **Professor Kostin**
-- E-mail: **<robert.kostin@rochester.edu>**
+- E-mail: **<robert.kostin@rochester.edu>** (for faster reply, please use [Slack](https://csc170.slack.com/) to contact the professor)
 - Office: **Morey Hall, Room 313**
 
 ### Office Hours
 - **Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://csc170.slack.com/), in the **#help** channel.  Students can leave questions at any time.  The professor, TAs, and other students will answer as quickly as possible
-- **Regular Office Hours:** for *non-technical help*, the professor will be in his office in Morey 313, Monday, Wednesday, and Friday between 1:30 and 2:30 PM.
+- **Regular Office Hours:** for *non-technical help*, the professor will be in his office in Morey 313, Tuesdays and Wednesdays between 9:30 and 10:30 AM.
 
 ## Grading
 For each assignment, a grading rubric is provided. Rubrics will explain how assignments are evaluated. 
@@ -51,11 +51,11 @@ For each assignment, a grading rubric is provided. Rubrics will explain how assi
 
 **Help:** THIS IS IMPORTANT --> to get help on any lab assignment or project, students must go to a scheduled lab session and find one of the TAs and ask for help.
 
-| **Lab**    | **Day & Time**                             | **Location** | **Teaching Assistants**                                      |                                                              |                                                            |
-| ---------- | ------------------------------------------ | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- |
-| CRN: 51684 | Mondays and Wednesdays<br>9:00 to 10:15 AM | Gavett 208   | Liam Gousios<br>![william-gousios](media\william-gousios.jpg) | Cassidy Clayton<br/>![cassidy-clayton](media\cassidy-clayton.jpg) | Asude Baykal<br>![asude-baykal](media\asude-baykal.jpg)    |
-| CRN: 51696 | Mondays and Wednesdays<br/>3:25 to 4:40 PM | Gavett 208   | Rose Cricchio<br>![rose-cricchio](media\rose-cricchio.jpg)   | Daniel Cancelmo<br>![daniel-cancelmo](media\daniel-cancelmo.jpg) | Ryan Lin<br>![ryan-lin](media\ryan-lin.jpg)                |
-| CRN: 51673 | Tuesdays and Thursdays<br>9:40 to 10:55 AM | Gavett 244   | Kelly Thornton<br>![kelly-thornton](media\kelly-thornton.jpg) | Phoi Nguyen<br/>![phoi-nguyen](media\phoi-nguyen.jpg)        | Shafieul Alam<br>![shafieul-alam](media\shafieul-alam.jpg) |
+| **Lab**    | **Day & Time**                                 | **Location** | **Teaching Assistants**                                      |                                                              |                                                      |
+| ---------- | ---------------------------------------------- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------- |
+| CRN: 52652 | Mondays and Wednesdays<br>11:05 AM to 12:20 PM | Gavett 208   | Qianwen Fu<br>![Qianwen Fu](media\qianwen-fu.jpg)            | Joshua Dennis<br/>![Joshua Dennis](media\joshua-dennis.jpg)  | Lingling Li<br>![Lingling Li](media\lingling-li.jpg) |
+| CRN: 52640 | Mondays and Wednesdays<br/>12:30 to 1:45 PM    | Gavett 208   | Ryan Lin<br>![Ryan Lin](media\ryan-lin.jpg)                  | Kelly Thornton<br>![Kelly Thornton](media\kelly-thornton.jpg) | Yuqi Zeng<br>![Yuqi Zeng](media\yuqi-zeng.jpg)       |
+| CRN: 52669 | Tuesdays and Thursdays<br>3:25 to 4:40 PM      | Gavett 208   | Robert Petrosyan<br>![Robert Petrosyan](media\robert-petrosyan.jpg) | Dominique Dorvil<br/>![Dominique Dorvil](media\dominique-dorvil.jpg) |                                                      |
 
 **Note:** throughout the semester, the assignments build on each other, meaning: students cannot complete one without successfully finishing the previous.  So, success in this course requires students to turn-in assignments on-time and in the right order.
 
@@ -74,7 +74,7 @@ The grade for assignments not turned-in on time with no prior arrangement for an
 
 Re-grading assignments is at the TA's discretion.  They are *not* obligated to do so.  However, within **two-days** of receiving a grade less than 100%, the student may fix the mistakes and re-submit the assignment in Blackboard for the *possibility* of having the assignment re-graded for full credit.  
 
-***Situations when students should not expect a second chance...***
+***Situations when students should <u>not</u> expect a second chance...***
 
 - An assignment that appears to have been submitted on-time for the sole purpose of getting a second chance WILL NOT be re-graded.  I.e. the first submission must look like the student made an honest attempt to get the assignment right.  If it looks terrible (as determined by the TA), the grade will be left as-is and *not* re-graded.
 - Late in the semester when the TAs and everyone is under the *crunch*, second chances will STOP.  When the TAs hit this point - when they're unable to keep-up - the professor will make an announcement in one of the lectures about this.
