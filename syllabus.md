@@ -62,17 +62,15 @@ For each assignment, a grading rubric is provided. Rubrics will explain how assi
 ### Due Dates
 For each assignment and project, the **due date** is shown near the top of the lab instructions. To avoid a zero grade, they must be turned-in via Blackboard on or before their due date.  
 
-Within **two days** of turning-in an assignment in Blackboard, the student's assigned TA is obligated to provide a grade ONE TIME only, and only if the assignment was submitted in Blackboard **on or before its due date**.  
+Within **two days** of turning-in an assignment in Blackboard, the student's assigned TA is obligated to provide a grade ONE TIME only, and only if the assignment was submitted in Blackboard **on or before its due date**.  Assignments turned-in after the due date will get a zero, with some exceptions...
 
 ### Late assignments
 
-Late assignments will not be graded unless a prior arrangement has been made with the student's TA to get an **extension by one or two days**.  Extensions will only be granted two or three times, maximum, per semester, at the discretion of the TA. 
-
-The grade for assignments not turned-in on time with no prior arrangement for an extension will be zero.
+Late assignments will not be graded unless *a prior arrangement* has been made with the student's TA to get an **extension by one or two days**.  Extensions will only be granted two or three times, maximum, per semester, at the discretion of the TA. 
 
 ## Second chances
 
-Re-grading assignments is at the TA's discretion.  They are *not* obligated to do so.  However, within **two-days** of receiving a grade less than 100%, the student may fix the mistakes and re-submit the assignment in Blackboard for the *possibility* of having the assignment re-graded for full credit.  
+Re-grading assignments is at the TA's discretion.  They are *not* obligated to do so.  However, within **two-days** of receiving a grade less than 100%, the student may fix the mistakes, re-upload their handiwork to the web server, and ask their TA for a second chance.  The TA *may* grant a second chance (by going into Blackboard and enabling it) so long as the mistakes made to the first submission appeared to be minor and the student has done their level best to correct them.
 
 ***Situations when students should <u>not</u> expect a second chance...***
 
