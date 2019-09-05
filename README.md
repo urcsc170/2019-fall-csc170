@@ -8,6 +8,11 @@ Introduction to Web Development
 
 ### Week 2
 
+- **Lecture 3. The Web and HTML**
+  - [The Web and HTML (PDF)](03-the-web-and-html/the-web-and-html.pdf)
+  - [The W3C Markup Validation Service](https://validator.w3.org/)
+  - [Home of the first website](http://info.cern.ch/)
+- [Lab 3: Content Preparation](lab03-content-prep/instructions.md)
 - **Lecture 2. The Internet**
   - [About this Course (PDF)](02-the-internet/about-this-course.pdf)
   - [The Internet (PDF)](02-the-internet/the-internet.pdf)
