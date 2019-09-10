@@ -12,7 +12,7 @@ Introduction to Web Development
   - [Web Document Structure (PDF)](04-web-document-structure/web-document-structure.pdf)
   - [HTML5 New Elements (W3Schools website)](https://www.w3schools.com/html/html5_new_elements.asp) and [HTML5 Semantic Elements (W3Schools website)](https://www.w3schools.com/html/html5_semantic_elements.asp)
   - [The Machine is Us-ing Us (YouTube)](https://youtu.be/NLlGopyXT_g)
-- Lab 4: Structured HTML Document (coming soon)
+- [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md)
 
 ### Week 2
 
