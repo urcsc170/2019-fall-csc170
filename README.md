@@ -6,6 +6,14 @@ Introduction to Web Development
 
 ## Topics and Assignments
 
+### Week 3
+
+- **Lecture 4: Web Document Structure**
+  - [Web Document Structure (PDF)](04-web-document-structure/web-document-structure.pdf)
+  - [HTML5 New Elements (W3Schools website)](https://www.w3schools.com/html/html5_new_elements.asp) and [HTML5 Semantic Elements (W3Schools website)](https://www.w3schools.com/html/html5_semantic_elements.asp)
+  - [The Machine is Us-ing Us (YouTube)](https://youtu.be/NLlGopyXT_g)
+- Lab 4: Structured HTML Document (coming soon)
+
 ### Week 2
 
 - **Lecture 3. The Web and HTML**
