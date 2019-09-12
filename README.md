@@ -11,7 +11,7 @@ Introduction to Web Development
 - **Lecture 5: Web Presentation, Part 1**
   - [Web Presentation 1 (PDF)](05-web-presentation-part1/css-for-formatting1.pdf)
   - [Color Keywords List (MDM Web Docs website)](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
-  - Lab 5: CSS for Formatting, part 1 (coming soon)
+  - [Lab 5: CSS for Formatting, part 1](lab05-css-for-formatting1/instructions.md)
 
 - **Lecture 4: Web Document Structure**
   - [Web Document Structure (PDF)](04-web-document-structure/web-document-structure.pdf)
