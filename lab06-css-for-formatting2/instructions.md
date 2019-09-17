@@ -18,11 +18,11 @@ Create classes and add them to your HTML elements, but be sure to leave the loca
 
 ## Step 2: Change/Add styles to your webpage using CSS
 
-For this lab, most of the work you do will be in the **styles.css** file. You will edit the HTML file only to add classes to elements as needed. You may also edit the HTML file to add non-semantic elements like DIVs and SPANs as needed too.
+For this lab, most of the work you do will be in the **styles.css** file. You will edit the HTML file only to add classes to elements as needed. You may also edit the HTML file to add non-semantic elements like DIVs and SPANs as needed too ...but you should always try to use more, semantically relevant tags before you resort to DIV or SPAN.
 
--   Remove ALL the style declarations you wrote from Lab 5
+- [ ] IMPORTANT: the first step is to remove ALL the style declarations you wrote from Lab 5
 
-
+<hr>
 
 General instructions to keep in mind while you create the new design:
 
@@ -33,16 +33,15 @@ General instructions to keep in mind while you create the new design:
 Bare minimums:
 
 -   Change **colors**, **font-stacks**, **sizes**, anything, but make sure any changes you make, make sense. I.e., don't change a margin or padding from 15px to 500px (that'd be weird). Continue to keep in mind: readability and usability.
-
--   Create and use **at least three CSS classes**
-
--   Create and use at least **two different kinds of CSS pseudo classes** *besides* `:hover`
-
+-   Among other selectors, you must create and use **at least three CSS classes**
+-   Among other selectors, you must create and use at least **two different kinds of CSS pseudo classes** 
+    -   You can use `:hover` on an `a` (anchor) tag, but NO other `a`-type pseudo class (because they're boring and uncommon)
+    -   Use the other types of pseudo classes (see this article or google for other examples: https://css-tricks.com/pseudo-class-selectors/)
 -   The final design must look "considerably different" than Lab 5
 
 ## Step 3: Upload your work
 
-When you are done with your webpage, close everything and use an FTP tool (like *WinSCP* or *Cyberduck*) to access your account on **csc170.org** and upload your **lab06** folder.
+When you are done with your webpage, close everything and use your FTP software to access your account on **csc170.org** and upload your **lab06** folder.
 
 -   In a web browser, go to this address to check your handiwork:  
     **csc170.org/accountname/lab06/start.html**  

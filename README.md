@@ -10,6 +10,7 @@ Introduction to Web Development
 
 - **Lecture 6: Web Presentation, Part 2**
   - [Selectors, the Box Model, and Floats (PDF)](06-web-presentation-part2/selectors-boxmodel-floats.pdf)
+  - Lab 6: CSS for Formatting, part 2 (coming soon)
 - **Introduction of Project 1: Classic HTML Document**
   - [Project 1 General Instructions (PDF)](06-web-presentation-part2/project1-review.pdf)
   - [Project 1: Classic HTML Document (instructions)](project01-classic-html-document/instructions.md)
