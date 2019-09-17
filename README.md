@@ -42,7 +42,6 @@ Introduction to Web Development
 
 ### Week 1
 
-
 - **Lecture 1. Introduction to the Industry**
 
   - [Slack for Classroom Communication (PDF)](01-Introduction-to-the-industry/slack-for-classroom-communication.pdf)
@@ -51,4 +50,3 @@ Introduction to Web Development
   - [Introduction to the Industry (PDF)](01-Introduction-to-the-industry/introduction-to-the-industry.pdf)
   - [Publishing Websites (PDF)](01-Introduction-to-the-industry/publishing-websites.pdf)
   - [Lab 1: Account Setup](lab01-account-setup/instructions.md)
-
