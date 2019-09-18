@@ -36,7 +36,7 @@ Bare minimums:
 -   Among other selectors, you must create and use **at least three CSS classes**
 -   Among other selectors, you must create and use at least **two different kinds of CSS pseudo classes** 
     -   You can use `:hover` on an `a` (anchor) tag, but NO other `a`-type pseudo class (because they're boring and uncommon)
-    -   Use the other types of pseudo classes (see this article or google for other examples: https://css-tricks.com/pseudo-class-selectors/)
+    -   Use the other types of pseudo classes (see this article or google for other examples: [https://css-tricks.com/pseudo-class-selectors/](https://css-tricks.com/pseudo-class-selectors/))
 -   The final design must look "considerably different" than Lab 5
 
 ## Step 3: Upload your work
