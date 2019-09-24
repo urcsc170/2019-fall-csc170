@@ -1,7 +1,7 @@
 # Lab 7: CSS for Layout
-*Due: Thursday, September 26, 2019*<br>
+*Due: Thursday, September 26, 2019*
 
-The purpose of this lab is to add a layout to your webpage using the latest layout techniques: CSS Flex and CSS Grid.  
+The purpose of this lab is to add a layout to your lab webpage using the latest layout techniques: **CSS Flex** and **CSS Grid**.  
 
 NOTE: success if this lab assumes you have a structure in your HTML *exactly* like this, with no content in-between the structural elements:
 
@@ -19,6 +19,18 @@ In-between the BODY tags...
 
 <footer>
 </footer>
+```
+
+...and in the FOOTER, you have a list of citations in a UL:
+
+```html
+<h2>Citations</h2>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+<div></div>
 ```
 
 If for some reason, your content is not in this structure, fix it before going on or things will definitely not work out in this lab.
@@ -128,7 +140,7 @@ Here's another example of what your webpage should look like at this stage (but 
 
 ## Step 7: Upload your work
 
-When you are done with your webpage, close everything and use an FTP tool (like*WinSCP* or *Cyberduck*) to access your account on **csc170.org** and upload your files:
+When you are done with your webpage, close everything and use your FTP software to access your account on **csc170.org** and upload your files:
 
 - [ ] In a web browser (any), go to this address to check your handiwork: <br>**www.csc170.org/accountname/lab07/start.html**<br>(where “*accountname*” is your account name)
 

@@ -6,14 +6,19 @@ Introduction to Web Development
 
 ## Topics and Assignments
 
-### Week 4
+### Week 5
 
+- **Lecture 8: Web Layout, Part 2**
+  - [CSS for Layout 2 (PDF)](08-web-layout2/css-for-layout2.pdf)
+  - [CSS Flex and CSS Grid in-class demos (ZIP)](08-web-layout2/flex-and-grid_demos.zip)
+  - Google: [online css grid generator](https://www.google.com/search?q=online+css+grid+generator&oq=online+css+grid+generator)
+
+### Week 4
 - **Lecture 7: Web Layout, Part 1**
   - [CSS for Layout 1(PDF)](07-web-layout1/css-for-layout1.pdf)
   - [Webolution (presentation-website)](http://fabianburghardt.de/webolution/)
   - [NYT Snow Fall (article-website)](http://www.nytimes.com/projects/2012/snow-fall/index.html#/?part=tunnel-creek) and [WikiPedia Article (website)](https://en.wikipedia.org/wiki/Snow_Fall)
   - Examples: [Cultural Soutions UK (website)](https://www.culturalsolutions.co.uk/), [Apple product page (website)](https://www.apple.com/iphone-11-pro/), [Hi Oscar (website)](https://www.hioscar.com/)
-
 - **Lecture 6: Web Presentation, Part 2**
   - [Selectors, the Box Model, and Floats (PDF)](06-web-presentation-part2/selectors-boxmodel-floats.pdf)
   - [Lab 6: CSS for Formatting, part 2](lab06-css-for-formatting2/instructions.md)
