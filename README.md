@@ -12,6 +12,7 @@ Introduction to Web Development
   - [CSS for Layout 2 (PDF)](08-web-layout2/css-for-layout2.pdf)
   - [CSS Flex and CSS Grid in-class demos (ZIP)](08-web-layout2/flex-and-grid_demos.zip)
   - Google: [online css grid generator](https://www.google.com/search?q=online+css+grid+generator&oq=online+css+grid+generator)
+  - [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md)
 
 ### Week 4
 - **Lecture 7: Web Layout, Part 1**
