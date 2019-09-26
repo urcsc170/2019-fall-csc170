@@ -26,7 +26,7 @@ This lab has three parts to it:
 
 ### Code a navigation element in HTML
 
-The following was demonstrated in the previous lecture.  Refer to your lecture notes when coding this part.  (Do *not* ask the TAs or the Professor to re-teach this section!)
+The following was demonstrated in the previous lecture.  Refer to your lecture notes when coding this part.  
 
 - In your **start.html** file, insert a new NAV element between the existing HEADER and your SECTION with the *.lead* class, something like this:
 
@@ -44,7 +44,7 @@ The following was demonstrated in the previous lecture.  Refer to your lecture n
 
 ```
 
-- Add a class to the NAV element; the class name should reflect what you want to do with it (Hint: keep it simple; call the class `“menu”` or `“main-menu”` …something like that)
+- Add a class to the NAV element; the class name should reflect what you want to do with it (Hint: keep it simple; call the class `"menu"` or `"main-menu"` …something like that)
 - Within the NAV element, build a menu *list* using the semantically correct HTML as demonstrated in the lecture.  In each list item, create an anchor tag
   - For the HREF of each anchor tag, you can simply use the `"#"` placeholder for now. 
   - For the text in each anchor tag use the same words as your **H2**s in the document.  (There should be at least four.) 
