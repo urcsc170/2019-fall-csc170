@@ -11,7 +11,7 @@ Introduction to Web Development
 - **Lecture 9: CSS for Navigation, Part 1**
   - [CSS for Navigation (PDF)](09-web-navigation1/css-for-navitation.pdf)
   - [Basic Navigation, in-class demo (ZIP)](09-web-navigation1/demo_basic-navigation.zip)
-  - Lab 8: CSS for Navigation (coming soon)
+  - [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md)
 
 - **Lecture 8: Web Layout, Part 2**
   - [CSS for Layout 2 (PDF)](08-web-layout2/css-for-layout2.pdf)
