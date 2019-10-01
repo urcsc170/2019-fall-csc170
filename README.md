@@ -6,6 +6,12 @@ Introduction to Web Development
 
 ## Topics and Assignments
 
+### Week 6
+
+- **Lecture 10: CSS for Navigation, Part 2**
+  - [CSS Positioning (PDF)](10-web-navigation2/css-positioning.pdf)
+  - [Advanced Navigation, in-class demo (ZIP)](10-web-navigation2/demo_advanced-navigation.zip)
+
 ### Week 5
 
 - **Lecture 9: CSS for Navigation, Part 1**
