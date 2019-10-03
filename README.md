@@ -8,6 +8,9 @@ Introduction to Web Development
 
 ### Week 6
 
+- **Lecture 11: Images for the Web**
+  - [Images for the Web (PDF)](11-images-for-the-web/images-for-the-web.pdf)
+
 - **Lecture 10: CSS for Navigation, Part 2**
   - [CSS Positioning (PDF)](10-web-navigation2/css-positioning.pdf)
   - [Advanced Navigation, in-class demo (ZIP)](10-web-navigation2/demo_advanced-navigation.zip)
