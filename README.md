@@ -10,7 +10,8 @@ Introduction to Web Development
 
 - **Lecture 11: Images for the Web**
   - [Images for the Web (PDF)](11-images-for-the-web/images-for-the-web.pdf)
-
+- [Lab 9: Background Images](lab09-background-images/instructions.md)
+  
 - **Lecture 10: CSS for Navigation, Part 2**
   - [CSS Positioning (PDF)](10-web-navigation2/css-positioning.pdf)
   - [Advanced Navigation, in-class demo (ZIP)](10-web-navigation2/demo_advanced-navigation.zip)
