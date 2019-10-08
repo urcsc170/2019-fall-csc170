@@ -9,6 +9,7 @@ Introduction to Web Development
 ### Week 7
 
 - **Lecture 12: Project 2 Introduction; Prep for the Midterm Exam**
+  - [Project 2: Formatting and Layout (instructions)](project02-formatting-and-layout/instructions.md)
 
 ### Week 6
 
