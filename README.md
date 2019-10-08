@@ -6,6 +6,10 @@ Introduction to Web Development
 
 ## Topics and Assignments
 
+### Week 7
+
+- **Lecture 12: Project 2 Introduction; Prep for the Midterm Exam**
+
 ### Week 6
 
 - **Lecture 11: Images for the Web**
