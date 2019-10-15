@@ -1,7 +1,7 @@
 # Lab 10: Localhost
 *Due: Tuesday, October 22, 2019*
 
-The point of this lab is to simply demonstrate that you can setup and work with a "localhost" which is required for using PHP.
+The point of this lab is to simply demonstrate that you can setup and work with a "localhost" which is required for using PHP. 
 
 *Note: this lab is different from all previous labs - it's pass/fail, and all you have to do is demonstrate to a TA that you're able to run a server and use a localhost to create a simple "include."  After you show this to any of the TAs,  they will check you off for credit. There is nothing to upload to the class web server nor turn-in on Blackboard.*
 
@@ -47,6 +47,7 @@ Also be aware: if you can't get the software to work on your computer, the profe
   - Do **not** fill this other file with an HTML5 document structure! Start with it blank
 
 - [ ] In the new file, add some plain text - lorem ipsum or whatever
+  
   - You can use whatever HTML tags you want - like a P tag to wrap around your lorem ipsum text ...whatever makes sense
 - [ ] Save and close your files
 
