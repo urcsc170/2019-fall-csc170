@@ -14,7 +14,7 @@ Introduction to Web Development
   - For Macs or Windows: [MAMP and MAMP for Windows (website)](https://www.mamp.info/en/)
   - For Macs or Windows: [XAMPP (Website)](https://www.apachefriends.org/index.html)
 
-### Week 7g
+### Week 7
 
 - **Lecture 12: Project 2 Introduction; Prep for the Midterm Exam**
   - [Project 2: Formatting and Layout (instructions)](project02-formatting-and-layout/instructions.md)
