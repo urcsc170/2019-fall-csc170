@@ -13,6 +13,7 @@ Introduction to Web Development
   - For Windows: [WampServer (website)](http://www.wampserver.com/en/)
   - For Macs or Windows: [MAMP and MAMP for Windows (website)](https://www.mamp.info/en/)
   - For Macs or Windows: [XAMPP (Website)](https://www.apachefriends.org/index.html)
+  - [Lab 10: Localhost](lab10-localhost/instructions.md)
 
 ### Week 7
 
