@@ -6,7 +6,15 @@ Introduction to Web Development
 
 ## Topics and Assignments
 
-### Week 7
+### Week 8
+
+- **Lecture 14: LAMP/WAMP/MAMP**
+  - [LAMP, WAMP, and MAMP (PDF)](14-lamp-wamp-mamp/lamp-wamp-mamp.pdf)
+  - For Windows: [WampServer (website)](http://www.wampserver.com/en/)
+  - For Macs or Windows: [MAMP and MAMP for Windows (website)](https://www.mamp.info/en/)
+  - For Macs or Windows: [XAMPP (Website)](https://www.apachefriends.org/index.html)
+
+### Week 7g
 
 - **Lecture 12: Project 2 Introduction; Prep for the Midterm Exam**
   - [Project 2: Formatting and Layout (instructions)](project02-formatting-and-layout/instructions.md)
