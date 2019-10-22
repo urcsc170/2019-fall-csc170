@@ -6,6 +6,11 @@ Introduction to Web Development
 
 ## Topics and Assignments
 
+### Week 9
+
+- **Lecture 15: Website Construction, part 1**
+  - ...
+
 ### Week 8
 
 - **Lecture 14: LAMP/WAMP/MAMP**
