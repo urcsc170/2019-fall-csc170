@@ -10,7 +10,7 @@ Introduction to Web Development
 
 - **Lecture 15: Website Construction, part 1**
   - [Website Construction (PDF)](15-website-construction1/website-construction.pdf)
-  - Lab 11: PHP Includes (coming soon)
+  - [Lab 11: PHP Includes](lab11-php-includes/instructions.md)
 
 ### Week 8
 
