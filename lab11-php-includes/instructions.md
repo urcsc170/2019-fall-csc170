@@ -72,7 +72,7 @@ Note: doing this step will break the "is-current" menu highlighter. That's okay.
 - [ ] Edit the code in the **nav.php** file: 
   - Replace every instance of **.html** with **.php**
   - Remove the `class="is-current"`
-- [ ] In ALL five PHP files replace the entire NAV element with a PHP Include statement that points to the **nav.inc** file 
+- [ ] In ALL five PHP files replace the entire NAV element with a PHP Include statement that points to the **nav.php** file 
 - [ ] Although the *start.html* file didn't have a NAV element, go ahead and **add the PHP Include for the nav.php file** between the HEADER and the SECTION (with the class="lead").  We'll need it there for the future labs.
 
 ## Step 6: Upload your Work
