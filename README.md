@@ -10,7 +10,7 @@ Introduction to Web Development
 
 - **Lecture 16: HTML Forms, part 1**
   - [HTML Forms, part 1 (PDF)](16-html-forms1/html-forms1.pdf)
-  - Lab 12: HTML Forms, part 1 (coming soon)
+  - [Lab 12: HTML Forms, part 1](lab12-html-forms1/instructions.md)
 
 - **Lecture 15: Website Construction, part 1**
   - [Website Construction (PDF)](15-website-construction1/website-construction.pdf)
