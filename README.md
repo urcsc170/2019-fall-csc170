@@ -8,6 +8,10 @@ Introduction to Web Development
 
 ### Week 9
 
+- **Lecture 16: HTML Forms, part 1**
+  - [HTML Forms, part 1 (PDF)](16-html-forms1/html-forms1.pdf)
+  - Lab 12: HTML Forms, part 1 (coming soon)
+
 - **Lecture 15: Website Construction, part 1**
   - [Website Construction (PDF)](15-website-construction1/website-construction.pdf)
   - [Lab 11: PHP Includes](lab11-php-includes/instructions.md)
