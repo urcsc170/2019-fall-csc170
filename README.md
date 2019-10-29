@@ -6,6 +6,12 @@ Introduction to Web Development
 
 ## Topics and Assignments
 
+### Week 10
+
+- Lecture 17: HTML Forms, part 2
+  - [HTML Forms, part 2 (PDF)](17-html-forms2/html-forms2.pdf)
+  - Lab 13: HTML Forms, part 2 (coming soon)
+
 ### Week 9
 
 - **Lecture 16: HTML Forms, part 1**
