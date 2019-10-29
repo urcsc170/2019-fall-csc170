@@ -1,0 +1,111 @@
+<?php
+// NOTICE: this part of this HTML document is just one PHP tag
+//  This script doesn't output anything to the user's browser
+//  so there is no DOCTYPE or any of the usual HTML things
+//  in this part
+
+// **********************************
+// SECTION ONE: set all the variables
+// **********************************
+
+// set some variables
+$emailFrom = "_____________"; // use YOUR email for both lines 12 and 13
+$emailTo = "_____________";
+$subject = "Lab 12 - HTML Forms";
+
+// for the following lines of code, grab the data being passed 
+//   from the method="post" in the HTML form and hold it in a variable
+
+// the words inside each $_POST[] must match a name="" attribute from the 
+//   HTML form EXACTLY...
+
+// these are from the text INPUT fields...
+$_____________ = Trim(stripslashes($_POST['_____________'])); 
+$_____________ = Trim(stripslashes($_POST['_____________'])); 
+$_____________ = Trim(stripslashes($_POST['_____________'])); 
+// ...used more input fields? Then copy these lines (above)
+//   and make more
+
+// these are from the INPUT type="checkbox" fields...
+$_____________ = $_POST['_____________']; 
+$_____________ = $_POST['_____________']; 
+$_____________ = $_POST['_____________']; 
+$_____________ = $_POST['_____________']; 
+// ...used more checkboxes? Then copy these lines (above)
+//   and make more
+
+// this is from all the INPUT type="radio" fields...
+$_____________ = $_POST['_____________']; 
+// notice: no matter how many radio buttons, there's only one answer
+
+// this is from the TEXTAREA field...
+$_____________ = Trim(stripslashes($_POST['_____________'])); 
+
+// **********************************
+// SECTION TWO: build the email body
+// **********************************
+
+$body = ""; // initialize the variable, then start concatenating
+			// backslash-n means new-line in emails
+
+$body .= "_____________: \n"; //...a label
+$body .= $_____________;	  //...a variable
+$body .= "\n\n";			  //...a new line
+
+$body .= "_____________: \n"; //...a label
+$body .= $_____________;	  //...a variable
+$body .= "\n\n";			  //...a new line
+
+$body .= "_____________: \n"; //...a label
+$body .= $_____________;	  //...a variable
+$body .= "\n\n";			  //...a new line
+// ...used more input fields? Then copy these lines (above)
+//   and make more
+
+// Do your checkboxes this way...
+$body .= "_____________: \n"; 	 	// a heading for your checkbox section
+
+if (isset($_____________)) {		// a checkbox variable
+	$body .= $_____________ . "\n";	// the same checkbox variable
+}
+if (isset($_____________)) {		// a checkbox variable
+	$body .= $_____________ . "\n";	// the same checkbox variable
+}
+if (isset($_____________)) {		// a checkbox variable
+	$body .= $_____________ . "\n";	// the same checkbox variable
+}
+if (isset($_____________)) {		// a checkbox variable
+	$body .= $_____________ . "\n";	// the same checkbox variable
+}
+$body .= "\n";
+// ...used more checkbox fields? Then copy these lines (above)
+//   and make more
+
+// This is for your radio buttons (always just one answer)...
+$body .= "_____________: \n";		// a heading for your radio button section
+$body .= $_____________;			// the (one) radio button variable
+$body .= "\n\n";
+
+// This is for your TEXTAREA
+$body .= "_____________: \n";		// a heading for your text area
+$body .= $_____________;			// the variable for your text area
+$body .= "\n";
+
+// **********************************
+// SECTION THREE: send the email
+// **********************************
+// You won't need to edit anything here...
+
+// send email 
+mail($emailTo, $subject, $body, "From: <$emailFrom>");
+
+
+//end the PHP block here...
+?>
+
+<!-- **********************************
+	 SECTION FOUR: thank the user in HTML;
+	 Below, there needs to be an HTML 
+	 webpage with a customized message 
+	 for the user
+	 ********************************** -->

@@ -8,9 +8,9 @@ Introduction to Web Development
 
 ### Week 10
 
-- Lecture 17: HTML Forms, part 2
+- **Lecture 17: HTML Forms, part 2**
   - [HTML Forms, part 2 (PDF)](17-html-forms2/html-forms2.pdf)
-  - Lab 13: HTML Forms, part 2 (coming soon)
+  - [Lab 13: HTML Forms, part 2](lab13-html-forms2/instructions.md)
 
 ### Week 9
 
