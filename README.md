@@ -8,6 +8,9 @@ Introduction to Web Development
 
 ### Week 10
 
+- **Lecture 18: Webpage Behavior (JavaScript), part 1**
+  - [Webpage Behavior, part 1](18-webpage-behavior1/webpage-behavior1.pdf)
+
 - **Lecture 17: HTML Forms, part 2**
   - [HTML Forms, part 2 (PDF)](17-html-forms2/html-forms2.pdf)
   - [Lab 13: HTML Forms, part 2](lab13-html-forms2/instructions.md)
