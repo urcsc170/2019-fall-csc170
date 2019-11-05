@@ -8,7 +8,7 @@ Introduction to Web Development
 
 ### Week 11
 
-- **Lecture 19: Webpage Behavior, part 2 **
+- **Lecture 19: Webpage Behavior, part 2**
   - [The Document Object Model (PDF)](19-webpage-behavior2/document-object-model.pdf)
   - [Project 3 Structure (PDF)](19-webpage-behavior2/project3-structure.pdf)
   - [Project 3: Multipage Website](project03-multipage-website/instructions.md) (due Thursday, December 5)
