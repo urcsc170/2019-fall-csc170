@@ -12,7 +12,7 @@ Introduction to Web Development
   - [The Document Object Model (PDF)](19-webpage-behavior2/document-object-model.pdf)
   - [Project 3 Structure (PDF)](19-webpage-behavior2/project3-structure.pdf)
   - [Project 3: Multipage Website](project03-multipage-website/instructions.md) (due Thursday, December 5)
-  - Lab 14: JavaScript Basics (coming soon)
+  - [Lab 14: JavaScript Basics](lab14-javascript-basics/instructions.md)
 
 ### Week 10
 
