@@ -8,6 +8,11 @@ Introduction to Web Development
 
 ### Week 11
 
+- **Lecture 20: JavaScript Libraries**
+  - [Website Building Continuum (PDF)](20-javascript-libraries/website-building-continuum.pdf)
+  - [JavaScript Libraries (PDF)](20-javascript-libraries/javascript-libraries.pdf)
+  - [Show/Hide Demos (ZIP)](20-javascript-libraries/show-hide_demos.zip)
+
 - **Lecture 19: Webpage Behavior, part 2**
   - [The Document Object Model (PDF)](19-webpage-behavior2/document-object-model.pdf)
   - [Project 3 Structure (PDF)](19-webpage-behavior2/project3-structure.pdf)
