@@ -10,7 +10,7 @@ The plug-ins we'll be using are:
 
 ...nothing for you to do or download yet. Just look at the *Super Simple Slider* website and the *jQuery UI* website and then follow the instructions below.
 
-*NOTE: if you want to use different plugins that do basically the same things instead of the ones listed above, do it!  Just be careful - there's a lot of crap out there.*
+*NOTE (this is new this semester!): if you want to use different plugins that do basically the same things instead of the ones listed above, do it!  Just be careful - there's a lot of crap out there.*
 
 
 ## Setup - Rip-out the Old JavaScript
@@ -19,9 +19,9 @@ The plug-ins we'll be using are:
 
 - In the PHP Include file where you keep the HEAD (**html-top.inc**), change the TITLE in the HEAD  to "Lab 15 - ..."  e.g.  `<title>Lab 15 - Shakespeare</title>` 
 
-- In the **index.php** file rip out the "hover trick" JavaScript you used from Lab 15 by doing this...
+- In the **index.php** file rip out the "hover trick" JavaScript you used from Lab 14 by doing this...
 
-	- Take the IMG element out of its FIGURE element - delete the FIGURE and FIGCAPTION elements.  Just leave the IMG under the "Welcome..." H2, by itself.
+	- Take the IMG element out of its FIGURE element - delete the FIGURE and FIGCAPTION elements.  Just leave the IMG under the H2, by itself.
 	- Remove the *onmouseover=""* and *onmouseout=""* attributes from the IMG
 	- Create a second IMG element, right under the first, that points to your other image.  (The one you used for your *onmouseover*.)
 
@@ -40,6 +40,8 @@ You need to install the plugin according to the instructions by the author.  In 
 - Normally, you would download the plugin files from the author's website.  Instead, download this prepared set of files: [sss.zip](sss.zip)
 
 - Extract the **sss** folder from the ZIP file and add the folder *as-is* to the **lab15** folder
+
+  - Note: the author of this plugin decided to put his CSS and images all inside his own "sss" folder - not your JS folder or CSS folder.  That's the way he wrote it, so you have to roll with it!
 
 - In the PHP Include file where you keep the HEAD, in the correct location add a link to the **sss/sss.css** file
   `<link rel="stylesheet" href="sss/sss.css">`
@@ -61,7 +63,12 @@ You need to install the plugin according to the instructions by the author.  In 
   </script>
   ```
 
+Look at your index file in a web browser (probably need to use your localhost because it's a PHP file).  The two images should automatically start "sliding."  If not, you need to fix it before moving on.
+
+*Note: if you want to add more pictures to your slide show, you can do that.  Just make all the images have the same dimensions.  It works better that way.  (You'll see.)*
+
 ## Install jQuery UI's Accordion Plugin
+
 You need to install the plugin according to the instructions by the developers of jQuery UI.  In all, you need to do the following:
 
 - NOTE: you must *not* re-install jQuery!  (You already installed it when you added SSS.)
@@ -78,11 +85,11 @@ You need to install the plugin according to the instructions by the developers o
 
   ```html
   <script>
-  $( "#accordion" ).accordion({
-  	heightStyle: "content"
-  });
+  $( "#accordion" ).accordion();
   </script>
   ```
+  
+  *Note: if you want to use some of the accordion options in the initialization script, go ahead.*
 
 - In the PHP Include file where you keep the HEAD, install the CSS using the CDN that hosts the jQuery UI styles
   `<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">`

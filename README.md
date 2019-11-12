@@ -13,7 +13,7 @@ Introduction to Web Development
   - [Plugin: Super Simple Slider (website)](https://supersimpleslider.com/)
   - [Plugin (alternative): ResponsiveSlides.js (website)](http://responsiveslides.com/)
   - [Plugin: jQuery UI (website)](https://jqueryui.com/) (where you can get the Accordion "widget")
-  - Lab 15: JavaScript Plugins (coming soon)
+  - [Lab 15: JavaScript Plugins](lab15-javascript-plugins/instructions.md)
 
 ### Week 11
 
