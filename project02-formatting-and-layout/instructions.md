@@ -62,7 +62,7 @@ The webpage appearance must be usable (readable) without strain.  Your design (f
 
 - We will be very flexible when it comes to judging aesthetics. Only really, *really* ugly or sloppy designs will be penalized (unless you're being ironic, in which case you need to make it clear that you're being so.)
 
-- Proper contrast between foreground andbackground must be maintained to make the webpage easy to read
+- Proper contrast between foreground and background must be maintained to make the webpage easy to read
 - Fonts (type, size, style and color) must be appropriate for desktop viewing.
 - Ample use of the box model (margin, padding,borders) to create white space must be used to separate areas of content into clearly delineated sections.
 - Your layout must work on all normal desktop sizes

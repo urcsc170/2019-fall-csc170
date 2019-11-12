@@ -159,13 +159,13 @@ Here’s an example of excerpts that lead to subpages. (Notice the text that say
 
 2.      Make *a copy* of your entire Project 2.  
 
-3.      Rename the Project 2 HTML file from index.php to something that describes its content (something like it’s H1), e.g. **mark-zuckerberg.php**
+3.      Rename the Project 2 HTML file from index.html to something that describes its content (something like it’s H1), e.g. **mark-zuckerberg.php**
 
 4.      In your copy of your Project 2 page, add the"common elements" described earlier in this document, restructuring the HTML as you go, as necessary.
 
 ## Register your Project 3 website with Google Analytics
 
-5.      In Google Analytics (www.google.com/analytics),setup a new Google Analytics Account for your Project 3 site
+5.      In Google Analytics (www.google.com/analytics), setup a new Google Analytics Account for your Project 3 site
         - The site will (eventually) reside at **csc170.org/accountname/project3** <br>*(where "accountname" is your account name)*
         - Find and copy the tracking code for your Project3 Google Analytics Account.
 
