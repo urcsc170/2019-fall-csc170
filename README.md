@@ -6,6 +6,15 @@ Introduction to Web Development
 
 ## Topics and Assignments
 
+### Week 12
+
+- **Lecture 21: JavaScript Plugins**
+  - [Javascript Plugins (PDF)](21-javascript-plugins/javascript-plugins.pdf)
+  - [Plugin: Super Simple Slider (website)](https://supersimpleslider.com/)
+  - [Plugin (alternative): ResponsiveSlides.js (website)](http://responsiveslides.com/)
+  - [Plugin: jQuery UI (website)](https://jqueryui.com/) (where you can get the Accordion "widget")
+  - Lab 15: JavaScript Plugins (coming soon)
+
 ### Week 11
 
 - **Lecture 20: JavaScript Libraries**
