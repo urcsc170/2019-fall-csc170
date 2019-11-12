@@ -15,11 +15,11 @@ The plug-ins we'll be using are:
 
 ## Setup - Rip-out the Old JavaScript
 
-- Make a copy of your **lab13** folder.  Call it **lab14**
+- Make a copy of your **lab14** folder.  Call it **lab15**
 
-- In the PHP Include file where you keep the HEAD (**html-top.inc**), change the TITLE in the HEAD  to "Lab 14 - ..."  e.g.  `<title>Lab 14 - Shakespeare</title>` 
+- In the PHP Include file where you keep the HEAD (**html-top.inc**), change the TITLE in the HEAD  to "Lab 15 - ..."  e.g.  `<title>Lab 15 - Shakespeare</title>` 
 
-- In the **index.php** file rip out the "hover trick" JavaScript you used from Lab 14 by doing this...
+- In the **index.php** file rip out the "hover trick" JavaScript you used from Lab 15 by doing this...
 
 	- Take the IMG element out of its FIGURE element - delete the FIGURE and FIGCAPTION elements.  Just leave the IMG under the "Welcome..." H2, by itself.
 	- Remove the *onmouseover=""* and *onmouseout=""* attributes from the IMG
@@ -39,7 +39,7 @@ You'll end up with something that looks like this:
 You need to install the plugin according to the instructions by the author.  In all, you need to do the following:
 - Normally, you would download the plugin files from the author's website.  Instead, download this prepared set of files: [sss.zip](sss.zip)
 
-- Extract the **sss** folder from the ZIP file and add the folder *as-is* to the **lab14** folder
+- Extract the **sss** folder from the ZIP file and add the folder *as-is* to the **lab15** folder
 
 - In the PHP Include file where you keep the HEAD, in the correct location add a link to the **sss/sss.css** file
   `<link rel="stylesheet" href="sss/sss.css">`
@@ -128,8 +128,8 @@ Depending on how you styled your "lead" section with your custom CSS you may or 
 When you are done with your webpage, close everything and use an FTP tool (to access your account on **csc170.org** and upload your files:
 
 - In a web browser (any), go to this address to check your handiwork: 
-	```www.csc170.org/accountname/lab14/index.php```<br>
+	```www.csc170.org/accountname/lab15/index.php```<br>
 	(where *accountname* is your account name)
 
 ## Report your work
-•	In our Blackboard section, in **Lab 14**, post a link to your webpage to receive credit for this Lab. 
+•	In our Blackboard section, in **Lab 15**, post a link to your webpage to receive credit for this Lab. 
