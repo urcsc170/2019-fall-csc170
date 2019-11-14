@@ -1,4 +1,4 @@
-# Lab 15: Menu Highlighter Plugin
+# Lab 16: Menu Highlighter Plugin
 *Due: Tuesday, November 19 2019*
 
 In a previous lab, you factored-out your NAV element from your HTML documents and put it in a PHP Include file which broke the *current menu highlighter* feature.  In this lab, you will use a JavaScript solution to programmatically put it back using a jQuery-powered Plugin.
@@ -7,9 +7,9 @@ You will also fix a problem with the CSS files you've been adding to your websit
 
 ## Step 1: Install the Menu Highlighter Plugin
 
-- [ ] Make a copy of your **lab15** folder.  Call it **lab15**
+- [ ] Make a copy of your **lab15** folder.  Call it **lab16**
 - [ ] In the **lab16** folder, create a folder named **js**
-- [ ] [Download the **menu-highlighter.js** file (in a ZIP file)](menu-highlighter.zip), extract the JS file and put it in the **js** folder 
+- [ ] [Download the **menu-highlighter.js** file (in a ZIP file)](menu-highlighter.zip), extract (unzip) the JS file and put it in the **js** folder 
 
 Note:  The **menu-highlighter.js** file will automatically insert the "is-current" class on the appropriate menu item in the navigation.  But you have to install the **menu-highlighter.js** file on every page to make it work.  But instead of doing that on every page…
 
@@ -19,7 +19,7 @@ Note:  The **menu-highlighter.js** file will automatically insert the "is-curren
 
 - [ ] In the **scripts.php** file, install jQuery (because the menu highlighter plugin uses jQuery) and then install the plugin
 
-- [ ] Then in the appropriate place on each webpage use a PHP Include to insert the **scripts.php ** file
+- [ ] Then in the appropriate place on each webpage use a PHP Include to insert the **scripts.php** file
 
   - Note that the **index** page, the jQuery installation already exists.  You must *never* install the same library twice on the same page!  So…
 
