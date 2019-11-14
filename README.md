@@ -8,6 +8,8 @@ Introduction to Web Development
 
 ### Week 12
 
+- [Lab 16: Menu Highlighter](lab16-menu-highlighter) and the plugin: [menu-highlighter.zip](lab16-menu-highlighter/menu-highlighter.zip)
+
 - **Lecture 21: JavaScript Plugins**
   - [Javascript Plugins (PDF)](21-javascript-plugins/javascript-plugins.pdf)
   - [Plugin: Super Simple Slider (website)](https://supersimpleslider.com/)
