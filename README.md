@@ -6,9 +6,14 @@ Introduction to Web Development
 
 ## Topics and Assignments
 
+### Week 13
+
+- **Lecture 23: Mobile Design, part 1**
+  - [Mobile Design (PDF)](23-mobile-design1/mobile-design.pdf)
+
 ### Week 12
 
-- [Lab 16: Menu Highlighter](lab16-menu-highlighter/instructions.md) and the plugin: [menu-highlighter.zip](lab16-menu-highlighter/menu-highlighter.zip)
+- **Lab only:** [Lab 16: Menu Highlighter](lab16-menu-highlighter/instructions.md) and the plugin: [menu-highlighter.zip](lab16-menu-highlighter/menu-highlighter.zip)
 
 - **Lecture 21: JavaScript Plugins**
   - [Javascript Plugins (PDF)](21-javascript-plugins/javascript-plugins.pdf)
