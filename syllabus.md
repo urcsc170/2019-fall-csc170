@@ -12,7 +12,7 @@ An introduction to Internet and Web technologies. Topics include Internet transp
 ## Instructor Information 
 - Instructor: **Professor Kostin**
 - E-mail: **<robert.kostin@rochester.edu>** (for faster reply, please use [Slack](https://csc170.slack.com/) to contact the professor)
-- Office: **Morey Hall, Room 313**
+- Office: **Wegmans Hall, room 2105** (temporarily)
 
 ### Office Hours
 - **Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://csc170.slack.com/), in the **#help** channel.  Students can leave questions at any time.  The professor, TAs, and other students will answer as quickly as possible
