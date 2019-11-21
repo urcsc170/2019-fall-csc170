@@ -8,6 +8,10 @@ Introduction to Web Development
 
 ### Week 13
 
+- **Lecture 24: Mobile Design, part 2**
+  - Real-time demos on Project 2s
+  - Lab 17: Mobile Design (coming soon)
+
 - **Lecture 23: Mobile Design, part 1**
   - [Mobile Design (PDF)](23-mobile-design1/mobile-design.pdf)
 
