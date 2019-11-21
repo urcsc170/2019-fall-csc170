@@ -10,7 +10,7 @@ Introduction to Web Development
 
 - **Lecture 24: Mobile Design, part 2**
   - Real-time demos on Project 2s
-  - Lab 17: Mobile Design (coming soon)
+  - [Lab 17: Mobile Design](lab17-mobile-design/instructions.md)
 
 - **Lecture 23: Mobile Design, part 1**
   - [Mobile Design (PDF)](23-mobile-design1/mobile-design.pdf)
