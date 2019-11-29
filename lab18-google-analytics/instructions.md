@@ -1,7 +1,9 @@
-# Lab 17: Google Analytics
-*Due: Thursday, April 25, 2019*
+# Lab 18: Google Analytics and Webmaster Tools
+*Due: Thursday, December 5, 2019*
 
-NOTE: there are a lot of unknown steps in this lab assignment because you're using online, off-the-shelf products that might change their procedures whenever they want.  Just keep in mind, that the goal of this lab assignment is to (#1) practice installing Google Analytics, and (#2) practice creating an XML Sitemap and installing it.  
+NOTE: the exact steps in this lab changes from semester-to-semester ...sometimes more often because this lab uses online, off-the-shelf products that get updated often
+
+# Part I: Google Analytics
 
 ## Step 1: Login to Google Analytics
 
@@ -16,7 +18,7 @@ NOTE: there are a lot of unknown steps in this lab assignment because you're usi
 - Assuming you've never used Google Analytics before, you'll see the **Sign up** button. Click it.
 - In Google Analytics, setup your account and enter an **Account Name**.  Use: *your name* (which of course, should be your name)
 
-## Step 3: Setting up a New Property
+## Step 3: Set up a New Property
 
 Next you will create a "property" (which is what Google calls a website) that points to your CSC 170 **Project 2 webpage** that you've installed on the webserver. To prepare for this step, in another browser window, open your Project 2 webpage and copy the Project 2 URL to your clipboard to ensure you get it exactly right.
 
@@ -94,4 +96,4 @@ If you received no error messages, you're done. Google will do the rest.
 
 To receive credit for this lab:
 
-- In our Blackboard section, in the Lab 17 assignment, (re)post a link to your **Project 2** webpage.
+- In our Blackboard section, in the Lab 18 assignment, (re)post a link to your **Project 2** webpage.

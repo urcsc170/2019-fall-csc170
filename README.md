@@ -6,10 +6,16 @@ Introduction to Web Development
 
 ## Topics and Assignments
 
+### Week 15
+
+- **Lecture 26: Driving Traffic to Websites, part 2**
+  - [Search Engine Optimization (PDF)](26-driving-traffic2/search-engine-optimization.pdf)
+  - [Lab 18: Google Analytics and Webmaster Tools](lab18-google-analytics/instructions.md)
+
 ### Week 14
 
 - **Lecture 25: Driving Traffic to Websites, part 1**
-  - [Driving Traffic, part 1 (PDF)](25-driving-traffic1/driving-traffic-to-websites1.pdf)
+  - [Driving Traffic (PDF)](25-driving-traffic1/driving-traffic-to-websites1.pdf)
 
 ### Week 13
 
