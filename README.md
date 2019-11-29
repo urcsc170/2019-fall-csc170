@@ -6,6 +6,11 @@ Introduction to Web Development
 
 ## Topics and Assignments
 
+### Week 14
+
+- **Lecture 25: Driving Traffic to Websites, part 1**
+  - [Driving Traffic, part 1 (PDF)](25-driving-traffic1/driving-traffic-to-websites1.pdf)
+
 ### Week 13
 
 - **Lecture 24: Mobile Design, part 2**
